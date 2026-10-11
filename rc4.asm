@@ -1,7 +1,6 @@
 # ELC1011 - Trabalho 1 - Criptografia RC4
-# Equipe: (nome 1) e (nome 2)
-# Antes de rodar: Tools > Keyboard and Display MMIO Simulator > Connect to MIPS
-# (a senha e digitada na caixa KEYBOARD dessa ferramenta)
+# Gustavo Teixeira e Luiza Manoelle
+#  Tools > Keyboard and Display MMIO Simulator > Connect to MIPS (p digitar a senha)
 
 .data
 S:          .space 256
